@@ -1,0 +1,38 @@
+/* header */
+.watchlist-title-box {
+  color: #fff;
+  font-size: 26px;
+  padding-left: 25px;
+  padding-top: 30px;
+  width: 145px;
+  text-align: left;
+}
+.search-box {
+  font-size: 20;
+  display: "block";
+  width: "95%";
+  margin-top: 40;
+  border-top: 0;
+  border-left: 0;
+  border-right: 0;
+  border-bottom: "0.3px solid #ffffff";
+  margin-left: "30px";
+  background-color: "#313541";
+  color: "white";
+}
+/* scrollbar style */
+::-webkit-scrollbar {
+  width: 4px;
+  border: 1px solid #8091a5;
+}
+
+::-webkit-scrollbar-track {
+  border-radius: 0;
+
+  background: #8091a5;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 0;
+  background: #50e3c2;
+}
